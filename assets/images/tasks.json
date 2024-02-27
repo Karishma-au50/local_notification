@@ -1,0 +1,15 @@
+[
+    {
+      "task": "Drink Water",
+      "message": "Remember to drink a glass of water!"
+    },
+    {
+      "task": "Eat Food",
+      "message": "It's mealtime! Have a healthy meal."
+    },
+    {
+      "task": "Take a Walk",
+      "message": "Take a break and go for a short walk."
+    }
+  ]
+  
